@@ -1,0 +1,3 @@
+[submodule "wsltest"]
+	path = wsltest
+	url = /home/dolu/petalinux/projects/wsltest
